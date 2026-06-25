@@ -2,7 +2,7 @@
 <h3 align="center">Informatics Student | Web Developer | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lifrmnn&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=lifrmn&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -92,12 +92,12 @@ A final thesis project repository related to the development and implementation 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lifrmnn&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lifrmnn&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lifrmn&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lifrmn&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifrmnn&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifrmn&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
@@ -105,7 +105,7 @@ A final thesis project repository related to the development and implementation 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lifrmnn&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lifrmn&theme=tokyo-night" />
 </p>
 
 ---
@@ -113,8 +113,8 @@ A final thesis project repository related to the development and implementation 
 ## 📫 Connect With Me
 
 <p>
-  <a href="https://github.com/lifrmnn">
-    <img src="https://img.shields.io/badge/GitHub-lifrmnn-black?style=for-the-badge&logo=github" />
+  <a href="https://github.com/lifrmn">
+    <img src="https://img.shields.io/badge/GitHub-lifrmn-black?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/alief-ryanto-rahman-9706b3288">
     <img src="https://img.shields.io/badge/LinkedIn-Alief%20Ryanto%20Rahman-blue?style=for-the-badge&logo=linkedin" />
